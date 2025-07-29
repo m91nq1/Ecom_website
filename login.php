@@ -2,7 +2,7 @@
 
 $servername = "localhost";
 $username = "root";
-$password = "Knowmyname1!";
+$password = "XXXXX";
 $dbname = "sasol_ecommerce";
 $port = 3307;
 
